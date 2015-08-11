@@ -17,6 +17,8 @@ Select from all your WooCommerce Products in the Wordpress "Add Post" admin scre
 
 == Installation ==
 
+Requirement: You must have the WooCommerce plugin installed with existing live products.
+
 Simply activate this plugin from the Plugins page and a new admin meta box will appear in the "Add New Post" page.  There you can select any of your current WooCommerce plugins from a simple list.  After you publish the post the related products will appear directly after your post content in thumbnail size.  All of the HTML elements have classes assigned for easy style customization.  While the images do contain image alt and title tags, currently the option to include product titles or product prices is not included. If enough people want it, we can add it in a future version.
 
 
